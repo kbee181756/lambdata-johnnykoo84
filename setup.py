@@ -7,7 +7,7 @@ setup(
     name="lambdata-johnnykoo",
     version='0.1.0',
     description="My first python package practice",
-    long_description="A project to find git information about authors' commits,most active days and time.",
+    long_description="Hello World, this is my very first python package!",
     long_description_content_type="text/markdown",
     author="Ilmo Koo",
     author_email="johnnykoo84@gmail.com",
