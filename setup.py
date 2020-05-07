@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="lambdata-johnnykoo",
-    version='0.1.0',
+    version='0.1.1',
     description="My first python package practice",
     long_description="Hello World, this is my very first python package!",
     long_description_content_type="text/markdown",
