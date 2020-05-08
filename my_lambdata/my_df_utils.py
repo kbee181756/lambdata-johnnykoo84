@@ -1,7 +1,9 @@
 import pandas as pd
 
+
 def check_null(df):
     return df.isnull().sum()
+
 
 def get_confusion_mtx(y_actu, y_pred):
     """
